@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Abstract Ever"
-description: ""
+description: "This abstract in a mathematical physics paper is the best article summary I've ever read"
 category: cs
 tags: [abstract, academia, cs]
 ---
