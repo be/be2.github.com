@@ -25,7 +25,7 @@ Pai babão de três compulsivos jogadores de videogames e marido apaixonado de u
 
 Áreas de desconcentração: música, quadrinhos, blogs, cinema, videogames, cerveja e balas mastigáveis (não é uma metáfora).
 
-Há o tagarela e espião neurótico [fb](https://www.facebook.com/bernard.alonso)
+Há o tagarela e espião neurótico [facebook](https://www.facebook.com/bernard.alonso)
 
 Guardo coisas que acho pela web quase diariamente em alguns [mundos](http://mundos.tumblr.com)
 
