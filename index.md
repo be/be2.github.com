@@ -25,11 +25,13 @@ Pai babão de três compulsivos jogadores de videogames e marido apaixonado de u
 
 Áreas de desconcentração: música, quadrinhos, blogs, cinema, videogames, cerveja e balas mastigáveis (não é uma metáfora).
 
-Há o tagarela e espião neurótico [facebook](https://www.facebook.com/bernard.alonso)
+Há o tagarela e espião neurótico [facebook](https://www.facebook.com/bernard.alonso).
 
-Guardo coisas que acho pela web quase diariamente em alguns [mundos](http://mundos.tumblr.com)
+Guardo coisas que acho pela web quase diariamente em alguns [mundos](http://mundos.tumblr.com).
 
-Relatos esquizøides em [bardodejavu](http://bardodejavu.tumblr.com)
+Relatos esquizøides em [bardodejavu](http://bardodejavu.tumblr.com).
+
+Artigos acadêmicos, conferências e pentelhações sortidas no [medieval system tabajara](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4283265Y4).
 
 
 
