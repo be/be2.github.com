@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Salve!
+title: Last posts
 tagline: 
 ---
 {% include JB/setup %}
