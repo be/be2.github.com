@@ -11,7 +11,7 @@ tags: [assange, freedom, rights, information]
 
 Julian Assange: “Can you hear me?
 
-“I am here today because I cannot be there with you today. But thank you for coming. Thank you for your resolve and your generosity of spirit.~
+“I am here today because I cannot be there with you today. But thank you for coming. Thank you for your resolve and your generosity of spirit.
 
 ![Julian Assange @Ecuador's Embassy](https://dl.dropbox.com/u/5666518/assan.jpg)
 
