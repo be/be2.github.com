@@ -13,7 +13,7 @@ Who governs digital trust?
 
 Doctorow framed the question this way: "Computers are everywhere. They
 are now something we put our whole bodies into---airplanes, cars---and
-something we put into our bodies---pacemakers, cochlear implants.~ They
+something we put into our bodies---pacemakers, cochlear implants. They
 HAVE to be trustworthy."
 
 Sometimes humans are not so trustworthy, and programs may override
