@@ -13,7 +13,7 @@ tagline:
   {% endfor %}
 </ul>
 
-![eu](http://f.cl.ly/items/0t0K3H42000m1s0U2d3h/bernss.jpg)
+![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
 Meu nome é Bernardo Alonso e este blog é fruto da matança de tempo e brincadeiras com o terminal (cathode!), ruby, git, html, css e markdown.
 
