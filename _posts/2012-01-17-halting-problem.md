@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halting Problem"
-description: "If we have a function "stops(x)" that takes a program x and returns true if x stops. Then we can make a program like this."
+description: "If we have a function stops(x) that takes a program x and returns true if x stops. Then we can make a program like this."
 category: cs
 tags: [halt, computation, loop]
 ---
