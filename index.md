@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Latest
-tagline: x = x + 1
+tagline:
 ---
 {% include JB/setup %}
 
