@@ -31,7 +31,7 @@ Guardo coisas que acho pela web quase diariamente em alguns [mundos](http://mund
 
 Relatos esquizøides em [bardodejavu](http://bardodejavu.tumblr.com).
 
-Fotos tiradas de telefone no [instagrid](instagrid.me/bernardoalonso).
+Fotos tiradas de telefone no [instagrid](http://instagrid.me/bernardoalonso).
 
 Artigos acadêmicos, conferências e pentelhações sortidas no [medieval system tabajara](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4283265Y4).
 
