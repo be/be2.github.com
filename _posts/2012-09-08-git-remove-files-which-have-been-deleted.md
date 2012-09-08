@@ -7,7 +7,7 @@ tags: [git, remove, git rm]
 ---
 {% include JB/setup %}
 
-Curious about how to remove files from git which have been deleted on your local directory? There are a few ways to do it, but these two below are the most ellegant solutions. On your directory, from terminal type: 
+Curious about how to remove files from git which have been deleted in your local directory? There are a few ways to do it, but these two below are the most ellegant solutions. `cd myproject` to your project directory via terminal and insert the following code: 
 
     $ git rm $(git ls-files --deleted)
 
@@ -19,7 +19,7 @@ The other one you can use is:
 
 It deletes all removed files, updates what was modified, and adds new files.
 
-Keep in mind that the removal isn't immediate, it will be complete after the next update, aka next `push`.
+Keep in mind that the removal isn't immediate, it will be completed after the next update, aka next `push`.
 
 Code found @commandlinefu.com 
 
