@@ -12,7 +12,7 @@ tagline:
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-[*← older*](/archive.html)
+[*← Earlier*](/archive.html)
 
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
