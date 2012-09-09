@@ -12,7 +12,7 @@ tagline:
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-[*← earlier*](/archive.html) ^ [*rss*](http://feeds.feedburner.com/lacuna/JIsS) ![*rss*](https://s3.amazonaws.com/f.cl.ly/items/2A400B2p460l2Z2P3K0B/rss_lacuna_me.png)
+[*← earlier*](/archive.html) ʎ [*rss*](http://feeds.feedburner.com/lacuna/JIsS) ![*rss*](https://s3.amazonaws.com/f.cl.ly/items/2A400B2p460l2Z2P3K0B/rss_lacuna_me.png)
 
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
