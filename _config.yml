@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Lacuna
-tagline: lacuna lacunae
+tagline: Epistemological gaps on the existentialist web
 author :
   name : Bernardo Alonso
   email : 
@@ -86,7 +86,7 @@ JB :
       site_id : 123
     intensedebate :
       account : 123abc
-    facebook :
+    facebook : 
       appid : 123
       num_posts: 5
       width: 580
