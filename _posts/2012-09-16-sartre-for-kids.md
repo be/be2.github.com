@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being and Nothingness for kids"
-description: "git remove files which have been deleted."
+description: "Sartre for Kids - a children's story."
 category: philosophy
 tags: [Sartre, Being and Nothingness, children’s story]
 ---
