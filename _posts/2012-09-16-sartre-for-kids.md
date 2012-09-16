@@ -3,7 +3,7 @@ layout: post
 title: "Being and Nothingness for kids"
 description: "Sartre for Kids - a children's story."
 category: philosophy
-tags: [Sartre, Being and Nothingness, children’s story]
+tags: [Sartre, Being and Nothingness, children’s story, lol]
 ---
 {% include JB/setup %}
 
