@@ -3,7 +3,7 @@ layout: post
 title: "Being and Nothingness for kids"
 description: "git remove files which have been deleted."
 category: code
-tags: [git, remove, git rm]
+tags: [Sartre, Being and Nothingness, children’s story]
 ---
 {% include JB/setup %}
 
