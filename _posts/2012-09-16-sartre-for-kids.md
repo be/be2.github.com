@@ -12,7 +12,7 @@ tags: [Sartre, Being and Nothingness, children’s story]
 
 ##Excerpt:##
 
->Simone saw that her mummy looked sad and so she said, “It’s okay, mummy, don’t be sad. If you don’t want to be the mummy, you can always choose to be someone else.” That made Simone’s mummy look even sadder still.
+>Simone saw that her mommy looked sad and so she said, “It’s okay, mommy, don’t be sad. If you don’t want to be the mommy, you can always choose to be someone else.” That made Simone’s mommy look even sadder still.
 
 
 -- read full story @[brainmage](http://brainmage.co.uk/?page_id=415).
