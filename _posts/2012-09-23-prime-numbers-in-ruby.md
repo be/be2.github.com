@@ -94,7 +94,9 @@ Recently the gistflow user [makaroni4](http://gistflow.com/users/makaroni4) poin
       "1" * n =~ /^1?$|^(11+?)\1+$/
     end
 
- Thank you internet folks!
+What an elegant solution.
+
+ *Thank you internet folks!*
 
 
 
