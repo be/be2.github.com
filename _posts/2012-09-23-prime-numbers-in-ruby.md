@@ -88,7 +88,7 @@ A regular expression is a pattern describing a certain amount of text. Their nam
 	perl -le '$f = "1 1"; $f =~ s/(1+) (1+)/$1$2 $1/ for 3..pop; $f =~ /1+/; print $+[0]' 16
 	987
 
-Recently the gistflow user [makaroni4](http://gistflow.com/users/makaroni4) pointed out how we can use `regexps` in ruby (keep in mind that this can also be done in different languages) to determine wheter a number is prime, here's the code:
+Recently the gistflow user [makaroni4](http://gistflow.com/users/makaroni4) pointed out how we can use `regexps` in ruby (keep in mind that this can also be done in other languages) to determine wheter a number is prime, here's the code:
 
     def isPrimeRegexp n
       "1" * n =~ /^1?$|^(11+?)\1+$/
