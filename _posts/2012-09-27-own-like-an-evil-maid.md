@@ -8,7 +8,7 @@ tags: [bootloader, evil maid, windows, CHKDSK]
 {% include JB/setup %}
 
 
-Have you ever seen a movie where a hot spy lady pretends to be a maid just to discover the villain's secrets? Well, the idea behind an "evil maid" attack is that someone, as the cleaner (aka, maid) sticks a SD card with the bootloader into somebody's PC when nobody's around. After a while she goes back, recover it, and own the villain.
+Have you ever seen a movie where a hot spy lady pretends to be a maid just to discover the villain's secrets? Well, the idea behind an "evil maid" attack is that someone, as the cleaner (aka, maid) sticks a SD card with the bootloader into somebody's PC when nobody's around. After a while she goes back, recover it (with saved login data, passwords et al) and own the machine.
 
 From the github page:
 
