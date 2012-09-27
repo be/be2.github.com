@@ -8,7 +8,7 @@ tags: [bootloader, evil maid, windows, CHKDSK]
 {% include JB/setup %}
 
 
-Have you seen a movie where a hot lady spy pretends to be a maid just to discover the vilain's secrets? Well, the idea behind an "evil maid" attack is that someone, as the cleaner (aka, maid) sticks a SD card with the bootloader into somebody's PC when they aren't around. After a while you go back, recover it, and own him.
+Have you ever seen a movie where a hot spy lady pretends to be a maid just to discover the vilain's secrets? Well, the idea behind an "evil maid" attack is that someone, as the cleaner (aka, maid) sticks a SD card with the bootloader into somebody's PC when they aren't around. After a while you go back, recover it, and own him.
 
 From the github page:
 
@@ -16,4 +16,4 @@ From the github page:
 
 For instructions on how to assemble the program, install on a disk and extract the saved password @[AlexWebr](https://github.com/AlexWebr/evilmaid_chkdsk)
 
-Wikipedia on [bootkits](http://en.wikipedia.org/wiki/Rootkit#Bootkits)
+Wikipedia entry on [bootkits](http://en.wikipedia.org/wiki/Rootkit#Bootkits).
