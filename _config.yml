@@ -10,13 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Lacuna
-tagline: Epistemological gaps on the existentialist web
+tagline: Information and Sedation
 author :
   name : Bernardo Alonso
   email : 
   github : be
   twitter :
-  feedburner : http://feeds.feedburner.com/lacuna/JIsS
+  feedburner : lacuna/JIsS
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
