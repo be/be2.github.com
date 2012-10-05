@@ -16,7 +16,7 @@ tagline:
 
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
-Meu nome é Bernardo Alonso e este blog é fruto da matança de tempo e brincadeiras com o terminal (cathode!), ruby, git, html, css e markdown.
+Meu nome é Bernardo e este blog é fruto da matança de tempo e brincadeiras com o terminal (cathode!), ruby, git, html, css e markdown.
 
 Pai babão de três compulsivos jogadores de videogames e marido apaixonado de uma deusa indiana, doutor em Filosofia pela UFRJ / University of Hertfordshire, professor adjunto da UFMT, programador aspirante nas horas vagas, músico que só toca campainha e escritor amador com bloqueio.
 
