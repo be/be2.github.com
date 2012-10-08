@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dilbert and Informed Opinions"
+title: "Informed Opinions"
 description: "Dilbert and Informed Opinions"
 category: comics
 tags: [information, data, humor]
