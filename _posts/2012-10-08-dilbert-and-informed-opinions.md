@@ -3,7 +3,7 @@ layout: post
 title: "Informed Opinions"
 description: "Dilbert and Informed Opinions"
 category: comics
-tags: [information, data, humor]
+tags: [information, philosophy, comics, lol]
 ---
 {% include JB/setup %}
 
