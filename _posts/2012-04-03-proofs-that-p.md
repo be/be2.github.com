@@ -3,7 +3,7 @@ layout: post
 title: "Proofs that p"
 description: "A compilation of proofs that P (you might as well refer to them as 'that :P')."
 category: philosophy
-tags: [humor, proofs, philosophers]
+tags: [humor, proofs, philosophy]
 ---
 {% include JB/setup %}
 
