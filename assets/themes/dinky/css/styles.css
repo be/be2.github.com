@@ -30,7 +30,7 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #232323;
-	background-color: #FBFAF7;
+	background-color: #FFFFF;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -76,7 +76,7 @@ h4, h5, h6 {
 }
 
 a {
-  color:#C30000;
+  color:#0000FF;
   font-weight:200;
   text-decoration:none;
 }
@@ -159,9 +159,9 @@ code, pre {
 
 pre {
 	padding: 4px 12px;
-  background: #FDFEFB;  
+  background: #FFFFFF;  
   border-radius:4px;
-  border:1px solid #D7D8C8;
+  border:1px solid #FFFFFF;
   overflow: auto;
   overflow-y: hidden;
 	margin-bottom: 32px;
