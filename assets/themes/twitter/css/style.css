@@ -21,8 +21,8 @@ audio:not([controls]) {
   display: none;
 }
 html {
-  font-size: 120%;
-  -webkit-text-size-adjust: 100%;
+  font-size: 100%;
+  -webkit-text-size-adjust: 120%;
   -ms-text-size-adjust: 100%;
 }
 a:focus {
