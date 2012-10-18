@@ -22,7 +22,7 @@ audio:not([controls]) {
 }
 html {
   font-size: 100%;
-  -webkit-text-size-adjust: 120%;
+  -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
 a:focus {
@@ -37,7 +37,7 @@ a:active {
 sub,
 sup {
   position: relative;
-  font-size: 75%;
+  font-size: 90%;
   line-height: 0;
   vertical-align: baseline;
 }
