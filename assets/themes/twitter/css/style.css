@@ -129,10 +129,10 @@ body {
   font-size: 15px;
   line-height: 20px;
   color: #27294f;
-  background-color: #00FF99;
+  background-color: #CCCCCC;
 }
 a {
-  color: #003366;	
+  color: #0000FF;	
   text-decoration: none;
 }
 a:hover {
