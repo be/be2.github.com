@@ -37,7 +37,7 @@ a:active {
 sub,
 sup {
   position: relative;
-  font-size: 90%;
+  font-size: 75%;
   line-height: 0;
   vertical-align: baseline;
 }
@@ -129,10 +129,10 @@ body {
   font-size: 15px;
   line-height: 20px;
   color: #27294f;
-  background-color: #ebecdf;
+  background-color: #00FF99;
 }
 a {
-  color: #0000FF;	
+  color: #003366;	
   text-decoration: none;
 }
 a:hover {
