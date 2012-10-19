@@ -128,15 +128,15 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 20px;
-  color: #CCCCCC;
-  background-color: #003366;
+  color: #000000;
+  background-color: #C0C0C0;
 }
 a {
-  color: #00FF00;	
+  color: #FF9900;	
   text-decoration: none;
 }
 a:hover {
-  color: #cccccc;
+  color: #FF9900;
   text-decoration: underline;
 }
 .img-rounded {
