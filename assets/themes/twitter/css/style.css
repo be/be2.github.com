@@ -62,7 +62,7 @@ input,
 select,
 textarea {
   margin: 0;
-  font-size: 100%;
+  font-size: 110%;
   vertical-align: middle;
 }
 button,
@@ -125,9 +125,9 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 20px;
+  font-family: Courier, Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 22px;
   color: #69e80f;
   background-color: #222222;
 }
