@@ -132,8 +132,8 @@ body {
   background-color: #222222;
 }
 a {
-  color: #99FF00;
-  text-decoration: none;
+  color: #69e80f;
+  text-decoration: underline;
 }
 a:hover {
   color: #6599FF;
