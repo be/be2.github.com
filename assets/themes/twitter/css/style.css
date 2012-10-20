@@ -137,7 +137,7 @@ a {
 }
 a:hover {
   color: #6599FF;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .img-rounded {
   -webkit-border-radius: 6px;
