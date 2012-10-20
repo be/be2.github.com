@@ -22,8 +22,8 @@ audio:not([controls]) {
 }
 html {
   font-size: 100%;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 150%;
+  -webkit-text-size-adjust: 130%;
+  -ms-text-size-adjust: 140%;
 }
 a:focus {
   outline: thin dotted #333;
@@ -136,7 +136,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #FCF141;
+  color: #6599FF;
   text-decoration: underline;
 }
 .img-rounded {
