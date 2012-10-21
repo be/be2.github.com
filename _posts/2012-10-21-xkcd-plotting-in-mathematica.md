@@ -7,7 +7,7 @@ tags: [xkcd, plotting, mathematica, graphs]
 ---
 {% include JB/setup %}
 
-Mathematica's [stackexchange](http://mathematica.stackexchange.com) website is a resourceful place where users share their knowledge. From time to time a pearl is found. xkcd comics lovers, rejoice, it's possible to create xkcd graphs. User [amatya](http://mathematica.stackexchange.com/users/2039/amatya) posted about an email he wanted to respond using xkcd graphs and came along with [Simon Woods](http://mathematica.stackexchange.com/users/862/simon-woods)' `xkcdconvert`. The one and only answered the thread offering very cool examples of easy usage. Here's just a few:
+Mathematica's [stackexchange](http://mathematica.stackexchange.com) website is a resourceful place where users share their knowledge. From time to time a pearl is found. xkcd comics lovers, rejoice, it's possible to create xkcd graphs using Mathematica. User [amatya](http://mathematica.stackexchange.com/users/2039/amatya) wrote about an email he wanted to respond using xkcd graphs and how he came along with [Simon Woods](http://mathematica.stackexchange.com/users/862/simon-woods)' `xkcdconvert`. The one and only Simon answered the thread offering some cool examples of easy usage. Here's just a few:
 
 ##2D##
 
