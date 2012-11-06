@@ -8,7 +8,7 @@ tags: [osmosis jones, quote, putrifiers ii, thee oh sees]
 {% include JB/setup %}
 
 
-I have two important announcements to make. The first is that I finally know my favourite movie quote ever :P It's from the piece of art called Osmosis Jones (2001), starring Bill Murray, Chris Rock and Laurence Fishburne. Digg it: 
+I have two important announcements to make. The first is that I finally know my favourite movie quote ever :P It's from the piece of art called Osmosis Jones (2001), starring Bill Murray, Chris Rock and Laurence Fishburne. Check it out. 
 
 Frank (Bill Murray):
 
