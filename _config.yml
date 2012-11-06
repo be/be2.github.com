@@ -10,11 +10,11 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Lacuna
-tagline: Information and Sedation
+tagline: Information and Misinformation
 author :
   name : Bernardo Alonso
-  email : lacuna.me@gmail.com
-  github : 
+  email : vomitols@gmail.com
+  github : be 
   twitter :
   feedburner : lacuna/JIsS
 
@@ -65,7 +65,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+  ASSET_PATH : false 
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change theme here if needed.
