@@ -12,7 +12,7 @@ I have two important announcements to make. The first is that I finally know my 
 
 Frank (Bill Murray):
 
-##99 kinds of wings! 128 different dipping sauces! You love math, crunch the numbers on that - and tell me the possibilities arent INFINITE!##
+## "99 kinds of wings! 128 different dipping sauces! You love math, crunch the numbers on that - and tell me the possibilities arent INFINITE!" ##
 
 The other news is that San Francisco's band *The Oh Sees* realeased a new album called ##Putrifiers II##. It's pretty amazing, could say it's like Velvet on opium and cocaine at the same time   ;-)   ///Hasta hermanos.
 
