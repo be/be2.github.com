@@ -3,7 +3,7 @@ layout: post
 title: "Passatempo"
 description: "Para quebrar o tédio e aproveitar da web o doce lado, no tarot dos arcanos maiores, leia o baralho."
 category: politics
-tags: [hack, ip, criptography, list, tarot]
+tags: [hacking, ip, criptography, list, tarot]
 ---
 {% include JB/setup %}
 
@@ -11,7 +11,7 @@ Este post é meramente ficcional, mas isso não quer dizer que não reflete a op
 
 Da terra das sombras segue uma sugestão, via nota encontrada numa garrafa que viajou pelo rio da mentira e da verdade vindo atracar na terra do marasmo. Para quebrar o tédio e aproveitar da web o doce lado, no tarot dos arcanos maiores, leia o baralho:
 
-#1 Hackear um ip difícil, e.g. Cambridge, Massachusetts, só porque você queria uma pepsi, mas na geladeira só havia um guaraná kwait do passado. Check √;
+#1 'Capturar' um ip difícil, e.g. Cambridge, Massachusetts, porque você queria uma pepsi gelada, mas na geladeira só havia um guaraná taí do passado. Check √;
 
 #2 Confirmar que está devidamente conectado ao endereço da gloriosa  Middlesex County. Navegue por sites como hulu, scyfi e pandora, i.e. *us only*. Check √;
 
@@ -31,4 +31,4 @@ Da terra das sombras segue uma sugestão, via nota encontrada numa garrafa que v
 
 ![pandora](http://f.cl.ly/items/2M1J0S3j1L1d3p3G0Y14/pand.jpg)
 
-kiddo level, late thankstaking!
+kiddo realm, late thankstaking!
