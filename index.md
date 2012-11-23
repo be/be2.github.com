@@ -17,9 +17,10 @@ tagline:
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
 
-Guardo coisas que acho pela web quase diariamente em alguns [mundos](http://mundos.tumblr.com).
+Relatos em [bardodejavu](http://bardodejavu.tumblr.com).
 
-Relatos esquizøides em [bardodejavu](http://bardodejavu.tumblr.com).
+Guardo coisas que acho pela web em alguns [mundos](http://mundos.tumblr.com).
+
 
 
 
