@@ -17,9 +17,9 @@ Da terra das sombras segue uma sugestão, via nota encontrada numa garrafa que v
 
 ##3 Criar uma conta de email com um nome de usuário (*aka login*) que você nunca usou em algum serviço que ofereça criptografia, e.g. [hushmail.com](http://www.hushmail.com). Check √;
 
-##4 Verificar a geolocalização precisa do seu ip para conseguir um zipcode do endereço de ip válido, há vários sites para verificar isso, google it or *duckduckgo* (recommended, for the sake of privacy). Check √;
+##4 Verificar a geolocalização precisa do seu ip para conseguir um zipcode válido do endereço de ip que está usando, há vários sites para verificar isso, google it with a proper term combo or *duckduckgo* it! (recommended, for the sake of privacy). Check √;
 
-##5 Criar uma conta no site pandora.com com os dados que você gerou, desinformar o sistema e escutar um monte de músicas boas em rádios personalizadas. Check √!!!
+##5 Criar uma conta no site pandora.com com os dados que você gerou, desinformar o sistema e escutar um monte de músicas boas em rádios personalizadas. Check √!
 
 (◣_◢)
 
