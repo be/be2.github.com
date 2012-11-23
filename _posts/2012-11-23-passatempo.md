@@ -7,7 +7,7 @@ tags: [hacking, ip, criptography, list, tarot]
 ---
 {% include JB/setup %}
 
-Este post é meramente ficcional, mas isso não quer dizer que não reflete a opinião de alguns de meus zumbis, sacis e leprechauns. 
+Este post é meramente ficcional, mas isso não quer dizer que não possa refletir a opinião de alguns dos meus zumbis, sacis e leprechauns. 
 
 Da terra das sombras segue uma sugestão, via nota encontrada numa garrafa que viajou pelo rio da mentira e da verdade vindo atracar na terra do marasmo. Para quebrar o tédio e aproveitar da web o doce lado, no tarot dos arcanos maiores, leia o baralho:
 
