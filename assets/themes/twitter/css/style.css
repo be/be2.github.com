@@ -508,7 +508,7 @@ h6 small {
   color: #218308;
 }
 h1 {
-  font-size: 36px;
+  font-size: 34px;
   line-height: 40px;
 }
 h2 {
@@ -516,7 +516,7 @@ h2 {
   line-height: 40px;
 }
 h3 {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 40px;
 }
 h4 {
@@ -728,7 +728,7 @@ input,
 button,
 select,
 textarea {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: normal;
   line-height: 20px;
 }
