@@ -8,7 +8,7 @@ tags: [regex, regexsp, ruby, pearl, code]
 {% include JB/setup %}
 
 
-A regular expression is a pattern describing a certain amount of text. Their name comes from the mathematical theory on which they are based. The Github user [fxn](https://github.com/fxn) has, among his repositories, a public master called `math-with-regexps` which contains a `one-liners.sh` with a few math tricks your can perform in pearl. 
+A regular expression is a pattern describing a certain amount of text. Their name come from the mathematical theory on which they are based. The Github user [fxn](https://github.com/fxn) has, among his repositories, a public master called `math-with-regexps` which contains a `one-liners.sh` with a few math tricks your can perform in pearl. 
 
 ##Prints "coprime" if the arguments are relatively prime.##
 
