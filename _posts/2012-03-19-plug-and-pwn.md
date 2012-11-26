@@ -20,5 +20,5 @@ O *pwn plug* mais simples custa salgados 480 dólares e a versão *eliteplug*, c
 
 ![pwnie](http://f.cl.ly/items/1O293q3a0o411I1B452T/pwnie.jpg)
 
-Reparem no [ssh](http://pt.wikipedia.org/wiki/SSH) do *fressh*. Tremei-vos!
+Reparem no [ssh](http://pt.wikipedia.org/wiki/SSH) do *fressh*. Tremei!
 
