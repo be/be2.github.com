@@ -17,12 +17,12 @@ tagline:
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
 
-Relatos em [bardodejavu](http://bardodejavu.tumblr.com).
+relatos de pesadelos e sonhos em [bardodejavu](http://bardodejavu.tumblr.com).
 
-Guardo coisas que acho pela web em alguns [mundos](http://mundos.tumblr.com).
+guardo coisas que acho pela web em alguns [mundos](http://mundos.tumblr.com).
 
 
-
+####FOR SECURE MSG PGP PUBLIC KEY:####
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
     Version: GnuPG v1.4.12 (Darwin)
