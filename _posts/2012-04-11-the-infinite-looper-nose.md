@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The infinite looper nose"
-description: "Bro, check this out. If Pinocchio says "my nose will grow now" *believing* that it won't, he's telling a lie and his nose grows."
+description: "Pinocchio's liar paradox remixed in street"
 category: philosophy
 tags: [lol, paradox, pinocchio]
 ---
