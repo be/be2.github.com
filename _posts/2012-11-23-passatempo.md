@@ -26,7 +26,7 @@ Da terra das sombras segue uma sugestão, via nota encontrada numa garrafa que v
 ╔╦╦
 ╠╬╬╬╣
 ╠╬╬╬╣OK! WHO ATE MY
-╠╬╬╬╣CHOCOLATE?!!
+╠╬╬╬╣CHOCOLATE?!!!
 ╚╩╩╩╝
 
 ![pandora](http://f.cl.ly/items/2M1J0S3j1L1d3p3G0Y14/pand.jpg)
