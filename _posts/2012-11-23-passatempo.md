@@ -15,7 +15,7 @@ Da terra das sombras segue uma sugestão, via nota encontrada numa garrafa que v
 
 ##2 Confirmar que está devidamente conectado ao endereço da gloriosa  Middlesex County. Navegue por sites como hulu, syfy e pandora, i.e. *us only*. Check √;
 
-##3 Criar uma conta de email com um nome de usuário (*aka login*) que você nunca usou em algum serviço que ofereça criptografia, e.g. [hushmail.com](http://www.hushmail.com). Check √;
+##3 Criar uma conta de email com um nome de usuário (*aka login*) que você nunca usou em algum serviço que ofereça criptografia, e.g. [tormail.org](http://www.tormail.org). Check √;
 
 ##4 Verificar a geolocalização precisa do seu ip para conseguir um zipcode válido do endereço de ip que está usando, há vários sites para verificar isso, google it with a proper term combo or *duckduckgo* it! (recommended, for the sake of privacy). Check √;
 
