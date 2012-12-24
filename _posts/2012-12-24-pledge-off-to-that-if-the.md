@@ -2,7 +2,7 @@
 layout: post
 title: "pledge off to that if the"
 description: "dadaist assange's speech"
-category: music
+category: art
 tags: [php, markov, dada, poetry]
 ---
 {% include JB/setup %}
