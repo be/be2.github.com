@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "top 20 albums of 2012"
-description: "Top 20 albums of 2012"
+title: "pledge off to that if the"
+description: "dadaist assange's speech"
 category: music
-tags: [music, albums, list]
+tags: [php, markov, dada, poetry]
 ---
 {% include JB/setup %}
 
