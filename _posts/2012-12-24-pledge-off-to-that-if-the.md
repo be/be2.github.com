@@ -11,7 +11,7 @@ tags: [php, markov, dada, poetry]
 
 ![tristan tzara](https://dl.dropbox.com/u/5666518/tzara.jpg)
 
-[Dada poem generator](http://bensonofjohn.co.uk/poetry/tools/dada_generator.php) is a Php dada generator based on the guide *To Make a Dadaist Poem* by Tristan Tzara. There's also a *Diastic*, a *Travsty* and of course a *Markov* generator in the very same page, from the poet and programmer Ben Johnson. Markov poem generators have also versions in [python](https://github.com/devjason/markov_poem) - and [Haskell](https://veritaze.wordpress.com/2012/09/21/markov-chain-poem-trainergenerator-in-29-lines-of-haskell/).  These are that come to my mind now, but I'm pretty sure you can duckduckgo it and find loads of different good codes in various languages. Heard there are ruby, C and even Javascript and Flash scripts for that. 
+[Dada poem generator](http://bensonofjohn.co.uk/poetry/tools/dada_generator.php) is a Php dada generator based on the guide *To Make a Dadaist Poem* by Tristan Tzara. There's also a *Diastic*, a *Travsty* and of course a *Markov* generator in the very same page, from the poet and programmer Ben Johnson. Markov poem generators have also versions in [python](https://github.com/devjason/markov_poem) - and [Haskell](https://veritaze.wordpress.com/2012/09/21/markov-chain-poem-trainergenerator-in-29-lines-of-haskell/).  These are the ones that come to mind now, but I'm pretty sure you can duckduckgo it and find loads of different good codes in various languages, ruby, C, Javascript and even  Flash scripts for that. 
 
 Well, I present you the *19th of August Assange's speech*, considered the best of 2012, in its dadaist version. Rejoice. I mean, Dada!
 
