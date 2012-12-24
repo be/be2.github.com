@@ -7,7 +7,7 @@ tags: [php, markov, dada, poetry]
 ---
 {% include JB/setup %}
 
-##Assange\'s 19.08.12 dadaist speech##
+##Assange\'s dadaist speech##
 
 ![tristan tzara](https://dl.dropbox.com/u/5666518/tzara.jpg)
 
