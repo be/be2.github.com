@@ -288,4 +288,4 @@ Well, I present you the *19th of August Assange's speech*, considered the best o
  
 >embassy because performance.
 
-####*Compare it with the [original](http://lacuna.me/politics/2012/08/19/19th-aug-speech-transcript/) speech.*####
+Compare it with the [original](http://lacuna.me/politics/2012/08/19/19th-aug-speech-transcript/) speech.
