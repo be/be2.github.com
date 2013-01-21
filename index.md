@@ -32,7 +32,7 @@ guardo coisas que acho pela web em alguns [mundos](http://mundos.tumblr.com).
 
  To tip bitcoins, beer@
 
-    14kiTk5huQMzdHCBMtqA3xa2zqfV2PPFot
+    1JuzbgBxewwcodndvn6eQqU99fNvkL5nDP
 
 
 
