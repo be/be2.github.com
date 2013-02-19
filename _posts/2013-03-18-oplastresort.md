@@ -3,10 +3,12 @@ layout: post
 title: "OpLastResort"
 description: "OpLastResort last statement."
 category: politcs
-tags: [anonymous, oplastresort, censorship, owned]
+tags: [anonymous, oplastresort, censorship, owned, cyberwar]
 ---
 {% include JB/setup %}
 
+
+![oplastresort](https://dl.dropbox.com/u/5666518/gov-hack.jpg)
 
 #OpLastResort - - 
 the statement reads
