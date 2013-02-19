@@ -2,7 +2,7 @@
 layout: post
 title: "OpLastResort"
 description: "OpLastResort last statement."
-category: politcs
+category: politics, video
 tags: [anonymous, oplastresort, censorship, owned, cyberwar]
 ---
 {% include JB/setup %}
