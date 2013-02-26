@@ -17,11 +17,6 @@ tagline:
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
 
-relatos de pesadelos e sonhos em [bardodejavu](http://bardodejavu.tumblr.com).
-
-guardo coisas que acho pela web em alguns [mundos](http://mundos.tumblr.com).
-
-
 ####FOR SECURE MSG PGP PUBLIC KEY:####
 
     -----BEGIN PGP PUBLIC KEY BLOCK-----
