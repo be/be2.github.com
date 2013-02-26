@@ -16,6 +16,8 @@ tagline:
 
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
+I herd u like mudkipz motherfucker
+
 
 ####FOR SECURE MSG PGP PUBLIC KEY:####
 
