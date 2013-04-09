@@ -18,6 +18,9 @@ tagline:
 
 I herd u like mudkipz motherfucker
 
+Site QR code:
+![lacunaqr](https://dl.dropbox.com/u/5666518/lacuna_qr.png)
+
 
 ####FOR SECURE MSG PGP PUBLIC KEY:####
 
