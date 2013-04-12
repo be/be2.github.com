@@ -17,6 +17,5 @@ If ya get all fucked up about the fact that for the sentence to count as a lie y
 
 P.S. - This [dude](http://www.reilaos.com/post/890247696/pinocchio-and-the-energy-crisis) says Pino's nose would fucking oscillate, damn.
 
-Got inspiration from this [thread](http://www.reddit.com/r/fuckingphilosophy/comments/s3640/pinocchio_paradox) @fuckingphilosophy.
 
 (1). 'Would grow' for the sake of the loop.
