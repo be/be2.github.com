@@ -35,7 +35,8 @@ Via [Artesian](http://www.reddit.com/user/Artesian)
 [][][][][]
 
 >Eventually, the people with the pick axes and the shovels (these were people using their CPUs to mine for bitcoins by cracking the code in the protocol) just couldn't get any more gold out. Their tools weren't powerful enough to crack through the deepest layers of surrounding rock anymore. So they turned to more powerful tools.
-In come the GPU miners... people who used the graphics processors in their computers to keep cracking away at the bitcoin protocol and finding more 'gold' in the mine. These guys (and gals) brought powerful motorized diggers, front-end loaders, dump trucks, and excavators. They had the tools to keep mining and because they often worked in "pools" and used their big powerful tools together... they could pretty reliable mine more gold even as the mine got deeper. They would just split the profits from the coins that they mined because no single person was really getting very many on their own.
+
+>In come the GPU miners... people who used the graphics processors in their computers to keep cracking away at the bitcoin protocol and finding more 'gold' in the mine. These guys (and gals) brought powerful motorized diggers, front-end loaders, dump trucks, and excavators. They had the tools to keep mining and because they often worked in "pools" and used their big powerful tools together... they could pretty reliable mine more gold even as the mine got deeper. They would just split the profits from the coins that they mined because no single person was really getting very many on their own.
 
 [][][][][]
 
