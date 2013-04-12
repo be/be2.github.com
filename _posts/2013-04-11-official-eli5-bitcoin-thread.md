@@ -9,6 +9,7 @@ tags: [bitcoin, ecurrency, reddit, ELI5]
 
 
 ![btc](https://dl.dropboxusercontent.com/u/5666518/bitcoin.png)
+
 Via [Artesian](http://www.reddit.com/user/Artesian)
 
 >Here's an ELI-10, because at 5 we'd be pushing hard to deliver good explanations that have some lasting value outside this thread.
@@ -41,8 +42,7 @@ Via [Artesian](http://www.reddit.com/user/Artesian)
 
 [][][][][]
 
->Today... the value of the bitcoin is much higher than it originally was. People have some decent faith in the value of the 'gold' mined from the invisible bitcoin mine. A lot of common stores will accept the currency and a lot of big companies are falling in line to start accepting it. They can see that the gold from the mine isn't really a funny color after all, and that's okay that no big central power controls it. They have some decent faith in the base protocol and they're willing to let people get a little 
-experimental with their payments.
+>Today... the value of the bitcoin is much higher than it originally was. People have some decent faith in the value of the 'gold' mined from the invisible bitcoin mine. A lot of common stores will accept the currency and a lot of big companies are falling in line to start accepting it. They can see that the gold from the mine isn't really a funny color after all, and that's okay that no big central power controls it. They have some decent faith in the base protocol and they're willing to let people get a little experimental with their payments.
 
 >But the mine keeps getting deeper... and because it's so much more difficult to dig up new bitcoins... you need much more powerful tools and bigger pools. The value expands with the total number and the number of people who have faith in the system. The more people buy into the bitcoin market... the more valuable the market becomes. If everyone thinks they can tap the mine... then they can! And that gold really starts being worth something.
 
