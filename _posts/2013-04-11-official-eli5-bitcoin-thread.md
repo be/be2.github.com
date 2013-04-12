@@ -8,6 +8,7 @@ tags: [bitcoin, ecurrency, reddit, ELI5]
 {% include JB/setup %}
 
 
+![btc](https://dl.dropboxusercontent.com/u/5666518/bitcoin.png)
 Via [Artesian](http://www.reddit.com/user/Artesian)
 
 >Here's an ELI-10, because at 5 we'd be pushing hard to deliver good explanations that have some lasting value outside this thread.
@@ -48,7 +49,8 @@ experimental with their payments.
 [][][][][]
 
 >In the next few months some amazing machines called ASIC miners are going to come online. These are the bad-boys of industry and they are going to make quick work of the next deeper level of the mine. They will be able to crack the base protocol's code thousands of times faster than even the GPU miners with their fancy automated equipment. The ASIC miners are taking nuclear explosives, plasma drills, and massive sky-scraper sized excavators to the mine. They will be able to do more work in an afternoon than the other guys could in a year! But the mine keeps getting deeper... and eventually even they won't be powerful enough to quickly crack into the next layer of rock. A powerful ASIC mining computer can cost more than a new car!!! But because it's so powerful, it may be able to make twice that in a month if the cost of the bitcoins stays stable or rises.
-But here's the kicker... because the total number of coins in circulation can never exceed the set amount in the base protocol... and because the mine can never get deeper... there will only ever be that set. Every month it will get twice as difficult to crack into the rock and mine bitcoins. Hence improvements in the tools being used. But for those at the top and those operating in large pools... the bitcoins will keep flowing.
+
+>But here's the kicker... because the total number of coins in circulation can never exceed the set amount in the base protocol... and because the mine can never get deeper... there will only ever be that set. Every month it will get twice as difficult to crack into the rock and mine bitcoins. Hence improvements in the tools being used. But for those at the top and those operating in large pools... the bitcoins will keep flowing.
 
 [][][][][]
 
