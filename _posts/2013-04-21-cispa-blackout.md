@@ -2,7 +2,7 @@
 layout: post
 title: "CISPA Blackout"
 description: "CISPA Blackout Example Page"
-category: lessons
+category: code
 tags: [html, privacy, blackout, CISPA]
 ---
 {% include JB/setup %}
