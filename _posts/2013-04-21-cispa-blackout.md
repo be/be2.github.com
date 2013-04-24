@@ -10,4 +10,4 @@ tags: [html, privacy, blackout, CISPA]
 
 This is the html code to be used during the CISPA Blackout, tomorrow - April 22
 
-<script src="http://pastebin.com/embed_js.php?i=4S6pNXxt"></script>
+<iframe src="http://pastebin.com/embed_iframe.php?i=4S6pNXxt" style="border:none;width:100%"></iframe>
