@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CISPA Blackout"
+title: "Cispa Blackout"
 description: "CISPA Blackout Example Page"
 category: code
 tags: [html, privacy, blackout, CISPA]
