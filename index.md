@@ -1,7 +1,7 @@
 ---
 layout: page
-title: trivia
-tagline: inforgs league forgotten mirror
+title: ⋇
+tagline: just another inforg's forgotten website
 ---
 {% include JB/setup %}
 
