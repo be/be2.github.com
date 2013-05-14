@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ∄ 
-tagline: just another inforg's forgotten website
+title: ( • ∀•)–Ψ 
+tagline: lacuna  inforg's forgotten website
 ---
 {% include JB/setup %}
 
