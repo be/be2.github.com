@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ⋇
+title: ∄ 
 tagline: just another inforg's forgotten website
 ---
 {% include JB/setup %}
