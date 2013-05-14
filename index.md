@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ( • ∀•)–Ψ 
+title: └[∵┌]└[ ∵ ]┘[┐∵]┘ 
 tagline: inforg's forgotten space
 ---
 {% include JB/setup %}
