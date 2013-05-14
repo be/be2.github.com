@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ( • ∀•)–Ψ 
-tagline: lacuna  inforg's forgotten website
+tagline: inforg's forgotten space
 ---
 {% include JB/setup %}
 
@@ -16,7 +16,6 @@ tagline: lacuna  inforg's forgotten website
 
 ![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
 
-I herd u like mudkipz motherfucker
 
 Site QR code:
 
