@@ -1,7 +1,7 @@
 ---
 layout: page
 title: └[∵┌]└[ ∵ ]┘[┐∵]┘ 
-tagline: inforg's forgotten space
+tagline: inforg's robot dance
 ---
 {% include JB/setup %}
 
