@@ -278,7 +278,7 @@ Well, I present you the *19th of August Assange's speech*, considered the best o
  
 >and thank values with years meeting
  
->dark bradley wikileaks for strength your
+>dark bradley wikileaks for strength your     
  
 >for must defending to was the
  
