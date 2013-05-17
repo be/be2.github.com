@@ -9,7 +9,7 @@ tags: [De Morgan, logic, ruby, programming]
 
 
 
-Once upon a time a philosophy undergrad student  entertained, naively, that she'd never ever stand before a symbolic notation or artificial language again. Besides getting scared the shit out of logic classes, she generally had this awful habit of asking questions such like: "professor, will I ever use that in *real life*?". This very kind of question is wrong in so many levels of abstraction that the whole scenario can get quite baffling, fo sho; but put aside the nescience of the matter, I always tried to show a few... let's call them... 'real life examples' :P - oh lord. 
+Once upon a time a philosophy undergrad student  entertained, naively, that she'd never ever stand before a symbolic notation or artificial language again. Besides getting scared the shit out of logic classes, she generally had this awful habit of asking questions such like: "professor, will I ever use that in *real life*?". This very kind of question is wrong in so many levels of abstraction, quite baffling, strange days; but put aside the nescience of the matter, I always tried to show a few... let's call them... 'real life examples' :P - oh lord. 
 
 De Morgan Laws are transformation rules that are valid rules of inference. They allow the expression of conjunctions and disjunctions purely in terms of each other via negation.
 
