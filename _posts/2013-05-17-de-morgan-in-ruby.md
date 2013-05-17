@@ -27,7 +27,7 @@ using the metalogical symbol of logical proof replacement, we now can express th
 ![rules](https://dl.dropboxusercontent.com/u/5666518/3rd.jpg)
  
 
-'Very fine', very well mr. hell, we all learned that in  undergrad school, maybe even earlier for a few. What we don't usually get to know is that many programming languages make heavy usage of De Morgan's laws (by 'we' I mean philosophers, not the  folks of compsci and math, not them). I'll sketch only a couple of examples, only a couple because after two you'll get it and all that'd come afterwards could bring down boredom to deadly levels.  One example is a bulletin board, the other a post office. Ruby is the language of choice, since it is quite clean and easy catching, imho. 
+'Very fine', very well mr. hell, we all learned that in  undergrad school, maybe even earlier, who cares? What we don't usually get to know is that many programming languages make heavy usage of De Morgan's laws (by 'we' I mean philosophers, not the  folks of compsci and math, not them). I'll sketch only a couple of examples, only a couple because after two you'll get it and all that'd come afterwards could bring down boredom to deadly levels.  One example is a bulletin board, the other a post office. Ruby is the language of choice, since it is quite clean and easy catching, imho. 
 
 Well my dear friend, take a look at the RULES and now comtemplate the zen of ruby:
 
