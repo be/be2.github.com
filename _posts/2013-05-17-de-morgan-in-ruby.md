@@ -15,21 +15,17 @@ De Morgan Laws are transformation rules that are valid rules of inference. They 
 
 Expressed as theorems of propositional logic we get:
 
-![conjunction](https://upload.wikimedia.org/math/9/b/6/9b694d1e80c3537a063441297ae31946.png)
+![tpl](https://dl.dropboxusercontent.com/u/5666518/1st.jpg)
 
-![disjunction](https://upload.wikimedia.org/math/1/7/6/176a63bc963d8d2d8b6cb8341baa8304.png)
 
 Its substitution form is expressed as:
 
-![conjunction](https://upload.wikimedia.org/math/2/d/4/2d4cbdd03edfd5cb93b9e70bf8b58233.png)
-
-![disjunction](https://upload.wikimedia.org/math/6/5/9/65963b6fe3284e1b959603007abdb144.png)
+![subst](https://dl.dropboxusercontent.com/u/5666518/2nd.jpg)
 
 using the metalogical symbol of logical proof replacement, we now can express the general RULES:
 
-![conjunction](https://upload.wikimedia.org/math/d/0/c/d0c9ab32c6729224e3c7139ee2cd8e7e.png)
-
-![disjunction](https://upload.wikimedia.org/math/a/d/7/ad7152bc4cefb69bbff2b5b2927e5281.png) 
+![rules](https://dl.dropboxusercontent.com/u/5666518/3rd.jpg)
+ 
 
 'Very fine', very well mr. hell, we all learned that in  undergrad school, maybe even earlier for some. What we don't usually get to know is that many programming languages make heavy usage of De Morgan's laws (by 'we' I mean philosophers, not the  folks of compsci and math, not them). I'll sketch only a couple of examples, only a couple because after two you'll get it and all that'd come afterwards could bring down boredom to deadly levels.  One example is a bulletin board, the other a post office. Ruby is the language of choice, since it is quite clean and easy catching, imho. 
 
