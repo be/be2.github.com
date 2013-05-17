@@ -21,6 +21,10 @@ Site QR code:
 
 ![lacunaqr](https://dl.dropbox.com/u/5666518/lacuna_qr.png)
 
+Gopher
+
+    gopher://sdf.org/1/users/ext/
+
 
 ####FOR SECURE MSG PGP PUBLIC KEY:####
 
