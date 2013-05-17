@@ -22,7 +22,7 @@ Its substitution form is expressed as:
 
 ![subst](https://dl.dropboxusercontent.com/u/5666518/2nd.jpg)
 
-using the metalogical symbol of logical proof replacement, we now can express the general RULES:
+using the metalogical symbol of logical proof replacement, we express the general RULES:
 
 ![rules](https://dl.dropboxusercontent.com/u/5666518/3rd.jpg)
  
