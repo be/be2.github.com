@@ -11,7 +11,7 @@ tags: [ruby, logic, De Morgan]
     
 More examples of De Morgan laws in ruby, for the sake of entertainment, aka 'just for the lulz', nothing really practical.
 
-In a software that just runs on unix or linux environments:
+In a software that only runs on unix or linux environments:
     
     if !unix? && !linux?
       terminate
