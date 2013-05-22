@@ -35,7 +35,7 @@ or
       cancel_vpn
     end
     
-And an example that takes a classic unix [sdf](http://sdf.org) command as an consequent - `mkhomepg` - which creates a homepage on your own free shell account (sdf members can't run ruby under ssh, only ARPA members can run ruby, for more info type `arpa` when logged in).  
+And an example that takes a classic unix [sdf](http://sdf.org) command as a consequent - `mkhomepg` - which creates a homepage on your own free shell account (sdf members can't run ruby under ssh, only ARPA members can run ruby, for more info type `arpa` when logged in).  
     
     if !validate? && !donate?
       no_mkhomepg
