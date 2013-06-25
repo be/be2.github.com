@@ -3,7 +3,7 @@ layout: post
 title: "Guide to I2P services"
 description: "Guide to I2P services - Version 1"
 category: privacy
-tags: [i2p, privacy, deepweb, search engines, cables, information]
+tags: [i2p, privacy, deepweb, search engines, cables, information, pastebin]
 ---
 {% include JB/setup %}   
     
@@ -461,3 +461,7 @@ You  are not acting as a proxy. You are relaying encrypted traffic of which  you
 ISN'T JAVA VERY INSECURE?
 
 Not really. The "Java vulnerabilities" you usually hear about are in the Java browser plugin. You don't need that anyway (so get rid of it if you haven't already!).
+
+
+
+<script src="http://pastebin.com/embed_js.php?i=xWzw10wW"></script>
