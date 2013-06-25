@@ -462,6 +462,4 @@ ISN'T JAVA VERY INSECURE?
 
 Not really. The "Java vulnerabilities" you usually hear about are in the Java browser plugin. You don't need that anyway (so get rid of it if you haven't already!).
 
-
-
-<script src="http://pastebin.com/embed_js.php?i=xWzw10wW"></script>
+This text [pastebin](http://pastebin.com/xWzw10wW)
