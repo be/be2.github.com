@@ -29,7 +29,7 @@ tags: [lua, code, programming, classes, inheritance]
     mrDog:makeSound()  -- 'I say woof'         
 
 
-Although it looks like classes, they're tables. That's because Lua's only compound data structure; So tables are just associative arrays. A table can have a metatable that gives the table operator-overloadish behavior.
+Although `Dog` looks like a class, it's a table. That's because Lua's only compound data structure; and tables are just associative arrays. A table can have a metatable that gives the table operator-overloadish behavior. And that's good news.
 
 As an inheritance behaviour we got this example:
 
