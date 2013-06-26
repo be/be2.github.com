@@ -3,7 +3,7 @@ layout: post
 title: "Guide to I2P services"
 description: "Guide to I2P services - Version 1"
 category: privacy
-tags: [i2p, privacy, deepweb, search engines, cables, information, pastebin]
+tags: [i2p, privacy, proxies, cables, information, pastebin]
 ---
 {% include JB/setup %}   
     
@@ -14,7 +14,7 @@ tags: [i2p, privacy, deepweb, search engines, cables, information, pastebin]
 
 
 
-**PREFACE**
+##PREFACE##
 
 There has been a guide to Tor hidden services for a long while now. It was about time for an I2P guide. For reference, here's the latest Tor Guide for Hidden Service (V. 4.0) http://pastebin.com/zRLGDRCM
 
@@ -23,9 +23,9 @@ Please read the FAQ at the end of this document for information on how to connec
 
 
 
-**I2P services**
+##I2P services##
 
-SEARCH ENGINES:
+###SEARCH ENGINES:###
 
 eepsites - This search engine has been around for a long number of years. Also available on the clearnet via http://eepsite.com "This site provides a web interface to a database about files available within the anonymous I2P network. A dedicated, automated web crawler keeps the database up-to-date." http://eepsites.i2p
 
@@ -34,7 +34,7 @@ eye.i2p - Supports somewhat advanced query options. http://eye.i2p
 epsilon.i2p - "Epsilon Search is a search engine that indexes eepsites on I2P." http://epsilon.i2p
 
 
-IMAGEBOARDS:
+###IMAGEBOARDS:###
 
 Oniichan - Chan run by chisquare. Many categories, active-ish. http://oniichan.i2p
 
@@ -124,7 +124,7 @@ SLS.i2p - Yet another Russian blog. Seems to cover politics. http://sls.i2p
 Antheogen - A Russian site about psychoactive funghi (I think) http://entheogen.i2p
 
 
-FILESHARING:
+###FILESHARING:###
 
 PaTracker 1.7 aka Postman's I2P tracker, or simply Postman. I2P's main torrent tracker. Has been up for years. Very active, very reliable. Lots of good stuff. http://tracker2.postman.i2p
 
@@ -170,7 +170,7 @@ leecher.i2p - Some popular TV series including The Walking Dead, The Simpsons, S
 serien.i2p - An index of German TV series available via torrents. http://serien.i2p
 
 
-FINANCIAL:
+###FINANCIAL:###
 
 VEscudero's Service for Buying and Selling Bitcoins - Very well established and reputable Bitcoin trader. http://bitcoiner.i2p
 
@@ -188,7 +188,7 @@ ChemHack's - "Apothecary and Potions". Currently selling homemade GHB and Suboxo
 Darknet Products - Selling virtual machines and bootable USBs. http://darknet-products.i2p
 
 
-SOCIAL:
+###SOCIAL:###
 
 id3nt - I2P's main microblogging service. http://id3nt.i2p
 
@@ -197,14 +197,14 @@ Jisko - Another microblogging service. Hasn't been around as long as id3nt, but 
 Visibility - Fully functional social network. Active (read: not dead), but could do with more users. "You can add friends, upload files, share images, write blogs, create pages, add bookmarks, create polls, and more..." http://visibility.i2p
 
 
-GAMING:
+###GAMING:###
 
 I2Play - "Welcome! I2Play provides anonymous gaming services over I2P. Admittedly the selection of games that can be played over I2P is reasonably small due to the requirement that they be tolerant of lag, but that doesn't stop us trying!" OpenTTD and Tetrinet. http://i2play.i2p
 
 I2P Chess Client - "Here you can play chess with other users and robots either in casual  play or for ranking.  Also, you can interact with the users through the  chat rooms. You don't need to install any other program, you just need  to register using the link, enter and play!" http://chess.i2p
 
 
-(FILE)HOSTING:
+###(FILE)HOSTING:###
 
 ZeroFiles - A file and image host with a 10mb upload limit. http://zerofiles.i2p
 Gallery - Not exactly an image host pur sang, but it hosts images. About 40k of them. http://gallery.i2p
@@ -213,7 +213,7 @@ open4you - A Russian/English site offering free hosting. http://open4you.i2p
 Blackhosting - A Russian hosting provider that accepts Bitcoin. http://blackhosting.i2p/en/
 
 
-CODING / DEVELOPMENT / PLUGINS / I2P RELATED SOFTWARE:
+###CODING / DEVELOPMENT / PLUGINS / I2P RELATED SOFTWARE:###
 
 ZZZ - The main developers forum of I2P. http://zzz.i2p
 i2p2.i2p - I2P's project page. Go here for the nitty gritty on how I2P works. http://www.i2p2.i2p
@@ -242,21 +242,21 @@ git.repo.i2p - A public, anonymous Git hosting site. http://git.repo.i2p
 Deadman - iMule repository. http://deadman.i2p
 
 
-OUTPROXIES:
+###OUTPROXIES:###
 
 ExitProxy - Run by Russians. Multiple IPs available. http://exitproxy.i2p
 
 Meeh's Tor outproxy - "I have a outpoxy free for use. With this you should be able to access both .i2p/.onion and clearnet sites." http://meeh.i2p/?p=services&sp=other
 
 
-PASTEBINS:
+###PASTEBINS:###
 
 PasteThis.i2p - Has been up for at least a year. Stable and actively used. http://pastethis.i2p
 
 ZeroBin - "ZeroBin is a minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES." http://zerobin.i2p
 
 
-TUTORIALS AND INFORMATION:
+###TUTORIALS AND INFORMATION:###
 
 Salt Wiki - The main I2P Wiki as of writing. A valuable resource with a big and broad variety of information. Also available as a Tor hidden service http://salt.i2p/wiki/index.php/Main_Page
 
@@ -278,7 +278,7 @@ I2P/Tor Workshop Notes - "By the less than anonymous Adrian Crenshaw". http://ir
 PrivacyHawk - A useful resource for tutorials on a variety of topics. "Welcome to PrivacyHawk's Growing List of  Tutorials". http://privacyhawk.i2p
 
 
-ADDRESSBOOK SERVICES:
+###ADDRESSBOOK SERVICES:###
 
 stats.i2p - The oldest and most popular addressbook service of I2P. Curated. http://stats.i2p
 
@@ -287,7 +287,7 @@ I2P Name Registery - Second most popular addressbook service. "Domain name regis
 I2Host- Yet another jumper service. http://i2host.i2p
 
 
-COMMUNICATION SERVICES:
+###COMMUNICATION SERVICES:###
 
 Postman's mail service aka mail.i2p. Has been online since 2004 with no breaks. Solid email provider. http://hq.postman.i2p
 
@@ -307,7 +307,7 @@ I2P Chat - A web chat run by who.i2p. Almost only Russians in here. http://who.i
 Salt NNTP - Text only NNTP server. Also available as a Tor hidden service. http://salt.i2p/nntp.html + http://salt.i2p/wiki/index.php/Salt_nntp (tutorial)
 
 
-UPTIME CHECKERS AND LINK LISTS:
+###UPTIME CHECKERS AND LINK LISTS:###
 
 Marcadores - A link list by a Latino user - http://marcadores.i2p
 
@@ -322,7 +322,7 @@ Perv - One of the older uptime checkers. http://perv.i2p
 identiguy aka eepstatus - Stable. http://identiguy.i2p
 
 
-FORUMS:
+###FORUMS:###
 
 forum.i2p - I2P's oldest forum. The most active forum in the I2P anglosphere. http://forum.i2p
 
@@ -333,14 +333,14 @@ forum.rus.i2p - Main forum for Russian I2P users. Very active. http://forum.rus.
 The Holocaust Forum - "Open and civilized debate on the Holocaust". http://holocaust.i2p
 
 
-COLLABORATIVE DOCUMENT EDITING:
+###COLLABORATIVE DOCUMENT EDITING:###
 
 Salty Pad - An I2P Etherpad instance. http://oniichan.i2p/ep/pad/
 
 Infinote - For use with an Infinote client. Might be better than Etherpad. No Javascript required. http://str4d.i2p/services/infinote/
 
 
-KEY SERVERS:
+###KEY SERVERS:###
 
 KillYourTV's SKS OpenPGP Keyserver http://killyourtv.i2p/sks
 
@@ -349,7 +349,7 @@ Inscrutable's SKS OpenPGP Public Key Server http://keys.inscrutable.i2p
 Echelon's I2P OpenPGP Public Key Server. http://keys.echelon.i2p
 
 
-VARIOUS/OTHER:
+###VARIOUS/OTHER:###
 
 Tabak - 1 page of information on.. tabacco. In Russian. An i2p-bote address is listed too. http://tabak.i2p
 
@@ -395,7 +395,7 @@ A table of known Syndie archives. http://wiki.meeh.i2p
 Syndie Gateway. http://mosfet.i2p
 
 
-IRC:
+###IRC:###
 
 The I2P IRC network aka irc2p - The biggest, most well known, most active IRC network in I2P. It works out of the box. Simply start I2P and point your IRC client to irc://127.0.0.1:6668
 
@@ -410,14 +410,14 @@ irc.welterde.i2p
 irc.meeh.i2p
 
 
-TAHOE-LAFS:
+###TAHOE-LAFS:###
 
 "Tahoe-LAFS is a Free and Open cloud storage system. It distributes  your data across multiple servers. Even if some of the servers fail or  are taken over by an attacker, the entire filesystem continues to  function correctly, preserving your privacy and security." There is a public Tahoe-LAFS grid available in I2P, but we can't be bothered to describe it in this guide.
 
 
 
 
-**Frequently Asked Questions**
+##Frequently Asked Questions##
 
 #HOW DO I CONNECT TO .I2P SITES?#
 
@@ -450,24 +450,24 @@ Plaintext:
 
 8. Connect irc client to server at localhost on whatever port you chose in step 6 (don't use a proxy)
 
-HOW DO I CONNECT TO OTHER I2P SERVICES?
+###HOW DO I CONNECT TO OTHER I2P SERVICES?###
 
 Just do what you do when connecting to a non-irc2p IRC server. Point the appropriate client to the localhost:port combination that you set up for the tunnel.
 
-CAN I USE I2P TO ACCESS NON-.I2P SITES AND SERVICES?
+###CAN I USE I2P TO ACCESS NON-.I2P SITES AND SERVICES?###
 
 You can, but I2P is not built with proxy functionality in mind. There are some outproxies that allow you to access the clearnet though.
 
-WHAT IS A "B32"?
+###WHAT IS A "B32"?###
 
 TL;DR: a b32 is I2P's equivalent of an IP address. Longer explanation: The b32 is a "compressed" version of the b64, which is the actual destination key of an I2P service. All human-readable links are simply shortcuts for destination keys. This can be compared regular clearnet DNS, though I2P's "DNS system" (the address book) is completely local and only contacts I2P "name registrars" like stats.i2p or inr.i2p to get newly published addresses periodically.
 
-ISN'T RELAYING TRAFFIC FOR OTHERS DANGEROUS?
+###ISN'T RELAYING TRAFFIC FOR OTHERS DANGEROUS?###
 
 You  are not acting as a proxy. You are relaying encrypted traffic of which  you know neither the source nor the destination. Depending on your country, there is usually close to zero risk involved in running a non-exit Tor relay. Relaying in I2P is no different.
 
-ISN'T JAVA VERY INSECURE?
+###ISN'T JAVA VERY INSECURE?###
 
 Not really. The "Java vulnerabilities" you usually hear about are in the Java browser plugin. You don't need that anyway (so get rid of it if you haven't already!).
 
-This text [pastebin](http://pastebin.com/xWzw10wW)
+ [Pastebin link](http://pastebin.com/xWzw10wW)
