@@ -8,6 +8,8 @@ tags: [i2p, privacy, deepweb, search engines, cables, information, pastebin]
 {% include JB/setup %}   
     
     
+![i2p-logo](https://dl.dropboxusercontent.com/u/5666518/i2p-logo.png)
+    
 ###Guide to I2P services - Version 1###
 
 
