@@ -26,16 +26,22 @@ Please read the FAQ at the end of this document for information on how to connec
 **I2P services**
 
 SEARCH ENGINES:
+
 eepsites - This search engine has been around for a long number of years. Also available on the clearnet via http://eepsite.com "This site provides a web interface to a database about files available within the anonymous I2P network. A dedicated, automated web crawler keeps the database up-to-date." http://eepsites.i2p
+
 eye.i2p - Supports somewhat advanced query options. http://eye.i2p
+
 epsilon.i2p - "Epsilon Search is a search engine that indexes eepsites on I2P." http://epsilon.i2p
 
 
 IMAGEBOARDS:
+
 Oniichan - Chan run by chisquare. Many categories, active-ish. http://oniichan.i2p
+
 Anch  - "This site was made by anarchists and for anarchists. This site is  russian-speaking, except /int/, which is international." http://anch.i2p
 
 (PERSONAL) SITES AND BLOGS:
+
 augenscheinlich - A blog in Germany about Net politics, surveillance, secret services, leaks, and so forth. Frequently updated as of this writing. http://augenscheinlich.i2p
 
 str4d - Home of str4d. It has guides, a blog, links, notes, and infographics. http://str4d.i2p
