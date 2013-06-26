@@ -419,7 +419,7 @@ TAHOE-LAFS:
 
 **Frequently Asked Questions**
 
-HOW DO I CONNECT TO .I2P SITES?
+#HOW DO I CONNECT TO .I2P SITES?#
 
 We recommend you to use the Tor Browser. A visual tutorial on setting up the Tor Browser for use with .i2p sites can be found here: http://i.imgur.com/gwInM2e.png Plaintext: 
 
