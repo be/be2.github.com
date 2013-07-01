@@ -40,7 +40,7 @@ Oniichan - Chan run by chisquare. Many categories, active-ish. http://oniichan.i
 
 Anch  - "This site was made by anarchists and for anarchists. This site is  russian-speaking, except /int/, which is international." http://anch.i2p
 
-(PERSONAL) SITES AND BLOGS:
+###(PERSONAL) SITES AND BLOGS:###
 
 augenscheinlich - A blog in Germany about Net politics, surveillance, secret services, leaks, and so forth. Frequently updated as of this writing. http://augenscheinlich.i2p
 
@@ -181,7 +181,7 @@ Darsek - "virtual card, internet payment processor and money transfer system". h
 ∏x5 - "∏x5 Investment Fund is an Offshore entity outside your jurisdiction, managed by veteran investment gurus." http://pix5.i2p
 
 
-PURCHASEABLES:
+###PURCHASEABLES:###
 
 ChemHack's - "Apothecary and Potions". Currently selling homemade GHB and Suboxone http://chemhack.i2p
 
