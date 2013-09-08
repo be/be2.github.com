@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 凸(｀⌒´メ)凸 
+title:  ―(T_T)→
 tagline:
 ---
 {% include JB/setup %}
