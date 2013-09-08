@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  ―(T_T)→
+title:  ▇ ▅ █ ▅ ▇ ▂ ▃ ▁ ▁ ▅ ▃ ▅ ▅ ▄ ▅ ▇
 tagline:
 ---
 {% include JB/setup %}
