@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 凸(｀⌒´メ)凸 
-tagline: taglines are for the weak
+tagline:
 ---
 {% include JB/setup %}
 
