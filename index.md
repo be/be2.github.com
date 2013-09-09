@@ -26,6 +26,3 @@ Site QR code:
 
     1JuzbgBxewwcodndvn6eQqU99fNvkL5nDP
 
-
-![eu](http://f.cl.ly/items/0N3P431I1K0r1O131I22/bernardo_.jpg)
-
