@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Lacuna
+title: Latest
 tagline:
 ---
 {% include JB/setup %}
