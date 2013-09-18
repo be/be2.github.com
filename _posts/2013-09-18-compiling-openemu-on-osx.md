@@ -19,7 +19,7 @@ Once Git has finished cloning, browse to the 'OpenEmu' folder it cloned to (chos
 
 Open the 'OpenEmu' folder and find the XCode project file called 'OpenEmu.xcworkspace'. Double click this file and it should open in XCode.
 
-Now the XCode is opened and you should click on the long bar to the right of the 'Stop' button and select the correct 'Scheme'. Then select 'Build All' > 'My Mac 64 Bit'...
+With XCode opened, click on the long bar to the right of the 'Stop' button and select the correct 'Scheme'. Then select 'Build All' > 'My Mac 64 Bit'...
 
 Finally click on 'Product' > 'Build For' > 'Profiling' in the menu bar and OpenEmu will now begin compiling.
 
