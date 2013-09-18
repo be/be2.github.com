@@ -25,7 +25,7 @@ Finally click on 'Product' > 'Build For' > 'Profiling' in the menu bar and OpenE
 
 Once XCode has compiled OpenEmu, simply search for OpenEmu.app in Finder, right-click on it and select 'Open Enclosing Folder'.
 
-And now you can launch the OpenEmu directly from this folder.
+And now you can launch OpenEmu directly from this folder.
 
 To add games you can try this amazing [torrent](http://www.mac-torrents.com/torrents.php?mode=details&id=5065d47f92da2d5a03e3820b9a2519c4d4199830)
 
