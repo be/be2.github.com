@@ -9,7 +9,7 @@ tags: [osx, openemu, xcode, git, nintendo64]
 
 ![ninendo64](https://dl.dropboxusercontent.com/u/5666518/pic-pref-th.png)
 
-Miss your old Nintendo 64 games like Diddy Cong Racing, Super Mario 64, Mortal Kombat Trilogy or Donkey Kong? Maybe you should give OpenEmu a try. To compile the emulator on OSX you'll need to do the following:
+Miss your old Nintendo 64 games like Diddy Kong Racing, Super Mario 64, Mortal Kombat Trilogy or Donkey Kong? Maybe you should give OpenEmu a try. To compile the emulator on OSX you'll need to do the following:
 
 First of all you'll need the latest copy of [Xcode](https://itunes.apple.com/gb/app/xcode/id497799835). Download and install it.
 
