@@ -17,12 +17,9 @@ tagline:
 
 
 
-Site QR code:
+BTC:
 
-![lacunaqr](https://dl.dropbox.com/u/5666518/lacuna_qr.png)
-
-
- btc
+![donate](https://dl.dropboxusercontent.com/u/5666518/canvas.png)
 
     1JuzbgBxewwcodndvn6eQqU99fNvkL5nDP
 
