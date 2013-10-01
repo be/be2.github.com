@@ -9,4 +9,4 @@ tags: [seminars, lol, philosophy, science]
 
 Via [phd comics](http://www.phdcomics.com)
 
-![questions in seminars](https://dl.dropboxusercontent.com/u/5666518/phd091813s.gif)
+![questions in seminars](https://dl.dropboxusercontent.com/u/5666518/ques.gif)
