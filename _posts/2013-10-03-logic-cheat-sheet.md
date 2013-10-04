@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "logic cheat seet"
-description: "logic cheat seet"
+title: "logic cheatsheet"
+description: "logic cheatsheet"
 category: logic
 tags: [logic, cheatsheet, DeMorgan, negation, syllogistic forms, laws]
 ---
