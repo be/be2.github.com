@@ -17,4 +17,4 @@ Great talk from professor Luciano Floridi, director of the Internet Studies Inst
 Enjoy!
 
 
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/IQ6psPrD0MM?version=3&amp;hl=pt_BR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/IQ6psPrD0MM?version=3&amp;hl=pt_BR&amp;rel=0" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<object width="640" height="480"><param name="movie" value="//www.youtube.com/v/IQ6psPrD0MM?version=3&amp;hl=pt_BR&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/IQ6psPrD0MM?version=3&amp;hl=pt_BR&amp;rel=0" type="application/x-shockwave-flash" width="640" height="480" allowscriptaccess="always" allowfullscreen="true"></embed></object>
