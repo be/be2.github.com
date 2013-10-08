@@ -18,7 +18,7 @@ tags: [i2p, privacy, proxies, cables, information, pastebin]
 
 There has been a guide to Tor hidden services for a long while now. It was about time for an I2P guide. For reference, here's the latest Tor Guide for Hidden Service (V. 4.0) http://pastebin.com/zRLGDRCM
 
-Please read the FAQ at the end of this document for information on how to connect to the services listed below.
+Please read the FAQ at the end of this document for information on how to connect to the services listed below:
 
 
 
